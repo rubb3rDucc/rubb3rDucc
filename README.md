@@ -1,6 +1,6 @@
 - currently working on filtered (a playlist builder)
 - demo: https://filtered-f.web.app
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubb3rDucc&hide_progress=true)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubb3rDucc&hide_progress=true)
 
 
 <!--
