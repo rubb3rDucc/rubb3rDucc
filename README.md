@@ -1,4 +1,4 @@
-- tools atm: firebase, typescript, c#, sql, google cloud
+- tools atm:  typescript, c#, sql, google cloud/firebase/supabase
 - working on: filtered (a playlist builder)
 - demo: https://filtered-f.web.app
 
