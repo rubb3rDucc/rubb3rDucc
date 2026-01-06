@@ -1,6 +1,8 @@
-- tools i enjoy using atm: typescript, c#, python, sql, firebase, docker
-- working on: filtered (a playlist builder)
-- demo: https://filtered-f.web.app
+- who: software engineer (typescript, c#, python, c/c++, sql)
+- years of experience: 4+
+- domain: web developement, mobile developement with expo/reac native, databases, cloud services
+- currently working on: showshowshow (personalized tv/movie/anime scheduling assistant): https://showshowshow.app/
+- past: filtered (a playlist builder): https://filtered-f.web.app
 
 <!--
 **rubb3rDucc/rubb3rDucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
