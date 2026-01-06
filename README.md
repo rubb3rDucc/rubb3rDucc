@@ -1,7 +1,7 @@
 - who: software engineer (typescript, c#, python, c/c++, sql)
 - years of experience: 4+
 - domain: web developement, mobile developement with expo/reac native, databases, cloud services
-- currently working on: showshowshow (personalized tv/movie/anime scheduling assistant): https://showshowshow.app/
+- currently working on: showshowshow (personal tv/movie/anime scheduling assistant): https://showshowshow.app/
 - past: filtered (a playlist builder): https://filtered-f.web.app
 
 <!--
