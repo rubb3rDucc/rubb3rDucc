@@ -1,7 +1,6 @@
-- who: software engineer (typescript, c#, python, c/c++, sql)
-- domain: web developement, mobile developement with expo/react native, databases, cloud services
+- what: i write software with typescript, c#, python, c/c++, or sql
+- domain: web developement, mobile developement with expo/react native, cloud services, low level programming, blah blah
 - currently working on: showshowshow (personal tv/movie/anime scheduling assistant): https://showshowshow.app/
-- past: filtered (a playlist builder): https://filtered-f.web.app
 
 <!--
 **rubb3rDucc/rubb3rDucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
